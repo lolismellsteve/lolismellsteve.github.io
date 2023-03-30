@@ -1,0 +1,63 @@
+body {
+    background-color: #FF0000;
+    font-family: 'Happy Monkey', cursive;
+    text-align: center
+}
+
+#Index {
+    background-color: #FFFFFF;
+}
+
+
+#TheFan {
+    background-color: #000000;
+
+}
+
+#AboutMe
+{
+    background-color: #74FF00;
+}
+
+#MyNewYork
+{
+    background-color: #00ECFF;
+}
+
+#Socials
+{
+    background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
+}
+
+h1
+{
+    color:"#000000"
+}
+
+h2
+{
+    color:#E0FF00
+    font-family: "Happy Monkey", Times, serif;
+}
+
+h3{
+    color: brown;
+}
+
+h4{
+    color: #E0FF00
+}
+
+h5{
+    color:
+}
+
+h6{
+    color: #C026FF;
+}
+
+
+#MyNewYork{
+
+        font-size: 20px;
+}
